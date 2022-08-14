@@ -1,0 +1,29 @@
+.body{
+    width: 100%;
+    height: 500px;
+    background-image: url(https://i.pinimg.com/736x/c5/40/01/c540018ca1c7b93cb1fbc218ea0c73a7.jpg);
+    background-size: cover;
+    position: relative;
+}
+
+.chu{
+    transform: translateX(-50%);
+}
+
+.next-icon1 {
+    stroke: #fff;
+    left: 100px;
+    top: 200px;
+    width: 30px;
+    height: 30px;
+}
+.next-icon2 {
+    stroke: #fff;
+    right: 100px;
+    top: 200px;
+    width: 30px;
+    height: 30px;
+}
+footer{
+    margin-top: 20vh;
+}
